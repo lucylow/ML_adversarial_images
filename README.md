@@ -1,7 +1,3 @@
-# MNIST readme
+# Attacking ML Classifier with Adversarial Images 
 
-Goals:
-
-- Create a softmax regression function that is a model for recognizing MNIST digits, based on looking at every pixel in the image 
-
-- Build, train, and test a multilayer convolutional neural network using Tensorflow to improve the results
+One limitation to using convolutional neural networks (CNN) to classify images and objects is their ability to be fooled using adversarial images. Adversarial images are inputs into the CNN which apply a noise or small pertubation to the examples causing the ML classifier to misclassify the inputs. Adversarial images work by taking advantage of the linear nature  of neural networks and can be explained as the property of high-dimensional dot products. 
