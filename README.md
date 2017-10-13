@@ -11,7 +11,7 @@ Create adversarial images that can be used to fool to misclassify MNIST data in 
 ## Prerequisites 
 * Python 3.3 +
 * Tensorflow 1.1.0
-* matplotlib
+* matplotlib 2.1.0
 * numpy 
 
 ## Usage
