@@ -14,16 +14,6 @@ Create adversarial images that can be used to fool to misclassify MNIST data in 
 * matplotlib 2.1.0
 * numpy 
 
-## Usage
-
-First download dataset with:
-> $ python download.py mnist 
-
-Currently work in progress. 
-
-## Results 
-Currently work in progress. 
-
 ## Related 
 * [1] [TensorFlow's 'Deep MNIST for Experts' guide](https://www.tensorflow.org/get_started/mnist/pros#deep-mnist-for-experts)  
 * [2] [Goodfellow's 'Explaining and Harnessing Adversarial Examples'](https://arxiv.org/pdf/1412.6572.pdf)
