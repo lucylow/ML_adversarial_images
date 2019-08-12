@@ -1,4 +1,4 @@
-# Attacking ML Classifier with Adversarial Images 
+# ML Classifier with Adversarial Images 
 
 --- 
 Create adversarial images that can be used to fool to misclassify MNIST data in a deep convolutional neural network. 
