@@ -6,7 +6,9 @@ Create adversarial images that can be used to fool to misclassify MNIST data in 
 ![alt text](http://karpathy.github.io/assets/break/breakconv.png "Example of a panda being misclassified by a neural network. [2]")
 
 ## Example TensorFlow 
-  ![MNIST notebook](https://github.com/lucylow/Mrs.Robot/blob/master/gender%20bias%20%20.png)
+  ![MNIST notebook](https://github.com/lucylow/ML_adversarial_images/blob/master/tensorflow%20ipynb.png)
+  
+   https://github.com/lucylow/ML_adversarial_images/blob/master/MNIST_CNN_working.ipynb
 
 
 
